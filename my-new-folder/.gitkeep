@@ -1,0 +1,1 @@
+This project involved the manual retrieval of financial statements for Microsoft, Apple, and Tesla. The data, covering the fiscal years 2021, 2022, and 2023, was sourced directly from the SEC's EDGAR database, as linked below.
