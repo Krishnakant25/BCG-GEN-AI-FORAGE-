@@ -1,6 +1,0 @@
-AI-Driven Financial Chatbot Prototype
-This prototype is an AI-powered financial chatbot that operates on a rule-based system. Instead of using complex machine learning models to understand natural language and generate responses, this chatbot relies on a predefined set of rules, keywords, and conversational paths to interact with users.
-
-The chatbot's "intelligence" is in its logic tree. For example, if a user asks, "What's my balance?" the chatbot is programmed to recognize the keywords "balance" or "account balance" and respond by prompting the user for their account number or login details. If the user asks a question that isn't covered by the rules, the chatbot might be programmed to say, "I'm sorry, I don't have an answer for that right now," or it might direct the user to a human agent.
-
-This approach is highly effective for handling a specific, structured set of tasks, like checking account balances, providing information on interest rates, or helping with password resets. It is a straightforward, reliable, and predictable system for automating common financial inquiries.
