@@ -1,0 +1,1 @@
+To perform this analysis, I manually extracted key financial statements for Microsoft, Apple, and Tesla for the fiscal years 2021 through 2023. All data was meticulously sourced from the official SEC's EDGAR database, accessible via the provided link. This process ensures the use of authoritative and publicly filed financial information.
